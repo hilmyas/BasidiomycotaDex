@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\project\AndStudio\BasidiomycotaDex\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="E:\project\AndStudio\BasidiomycotaDex\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0_e5f7bf222220a1bb7798b3ac38163d45544ddfdd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\AndStudio\BasidiomycotaDex\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="E:\project\AndStudio\BasidiomycotaDex\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-20.0.0_a7cc22fffb9d3ec2af2f066d6b29a4ee45cfdf10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Toshiba\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="E:\project\AndStudio\BasidiomycotaDex\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0_c36e229ead7933d46b89a331acde17ee154e77e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\AndStudio\BasidiomycotaDex\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="E:\project\AndStudio\BasidiomycotaDex\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-20.0.0_7deb97cfa80fda59d6dcad26d1f7de6a99657bc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\AndStudio\BasidiomycotaDex\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a7fb05a1f2f3a490b68fca574dec9f30e7d47ba">
+        <dex dex="E:\project\AndStudio\BasidiomycotaDex\app\build\intermediates\pre-dexed\debug\instant-run_b36b1752b239ff6d64a1a7d0a1aaf8267d5b3c22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\AndStudio\BasidiomycotaDex\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69cce46afc7755ee453943b32151202ac0bb86fe">
+        <dex dex="E:\project\AndStudio\BasidiomycotaDex\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_6beb19f7f92c048e68e791bbc4e573b173037604.jar" />
+    </item>
+
+</items>
